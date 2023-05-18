@@ -42,5 +42,8 @@
     <ClCompile Include="baekjun11382.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="baekjun10869_comment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

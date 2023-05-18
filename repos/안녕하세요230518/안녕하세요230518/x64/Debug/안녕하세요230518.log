@@ -1,6 +1,2 @@
-﻿  baekjun11382.c
-C:\Users\KB\source\repos\안녕하세요230518\안녕하세요230518\baekjun11382.c(10,9): warning C4477: 'printf' : 서식 문자열 '%lld'에 '__int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\KB\source\repos\안녕하세요230518\안녕하세요230518\baekjun11382.c(10,9): message : 서식 문자열에서 '%d'을(를) 사용하는 것이 좋습니다.
-C:\Users\KB\source\repos\안녕하세요230518\안녕하세요230518\baekjun11382.c(10,9): message : 서식 문자열에서 '%I32d'을(를) 사용하는 것이 좋습니다.
-C:\Users\KB\source\repos\안녕하세요230518\안녕하세요230518\baekjun11382.c(9,21): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  baekjun10869_comment.c
   안녕하세요230518.vcxproj -> C:\Users\KB\source\repos\안녕하세요230518\x64\Debug\안녕하세요230518.exe
