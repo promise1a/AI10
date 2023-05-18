@@ -11,7 +11,7 @@ int main() {
 	int kor, math, eng;
 
 	// 2. 변수의 값 입력받기 :: scanf()
-
+	// scanf()의 ""안에는, 서식지정자와 공백만 쓸 수 있다.
 	scanf("%c", &name);
 	scanf("%d %d %d", &kor, &math, &eng);
 

@@ -33,5 +33,14 @@
     <ClCompile Include="exam2_comment.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="operator0518.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="baekjun10869.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="baekjun11382.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
