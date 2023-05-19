@@ -9,6 +9,8 @@ int main()
 	// 1. 첫번째 값 입력받기
 	// c1 변수 예상값 :: A, B, C, D, F
 
+	/*
+	
 	char c1;
 	scanf("%c", &c1);
 
@@ -32,7 +34,22 @@ int main()
 		printf("%.1f", score);
 	}
 
+	*/
+
+	/// 위의 if문을 switch문으로 변경
+
+	char c1;
+	scanf("%c", &c1);
+
+	// case1 - F - 0.0
+	// case2 D,C,B,A
+	// 
+	// case3 +,-,0
+	// 
+	// 
 
 
+	switch(c1)
+		case 1: // F
 
 }
