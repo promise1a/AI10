@@ -51,7 +51,7 @@ int main()
 			result -= 0.3 ;
 		}
 		
-	printf("%2.1f", result);
+	printf("%.1f", result);
 }
 
 

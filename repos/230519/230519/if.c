@@ -42,6 +42,7 @@ int main()
 	//}
 
 	// if - else if - else
+	// if - else - else if (X) 순서
 
 	if (score >= 90) {	// "만약에 ~하면, 아래를 실행하라."
 		printf("A학점입니다.\n");
