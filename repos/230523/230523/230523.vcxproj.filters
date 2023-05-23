@@ -54,5 +54,11 @@
     <ClCompile Include="ex5_commnet2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
