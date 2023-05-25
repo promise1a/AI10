@@ -1,0 +1,4 @@
+﻿  ex1_note2.c
+C:\Users\KB\source\repos\Ex1\Ex1\ex1_note2.c(11,12): error C2065: 'sum': 선언되지 않은 식별자입니다.
+C:\Users\KB\source\repos\Ex1\Ex1\ex1_note2.c(25,62): warning C4013: 'sum2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\source\repos\Ex1\Ex1\ex1_note2.c(29,62): warning C4013: 'sum3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
